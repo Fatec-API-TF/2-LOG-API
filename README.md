@@ -17,11 +17,11 @@
 
 <h2> 🔋 Status do Projeto:  <a id="status"></a> </h2> </h2>
 
-> Status do projeto: [Primeira Sprint - 🚩](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd3.md)
+> Status do projeto: [Primeira Sprint - 🚩](https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/sp1.md)
 >
 > 
 >
-> Documentação: [Documentação do Projeto - 📖](https://github.com/rodriwsz/API-TEST/tree/main/documentacao)
+> Documentação: [Documentação do Projeto - 📖](https://github.com/Fatec-API-TF/2-LOG-API/tree/main/Docs)
 
 <h2> 🏃‍♂️ Objetivo: <a id="objetivo"></a> </h2>
 
@@ -74,9 +74,9 @@ O objetivo deste projeto é desenvolver uma plataforma no Power BI para analisar
 
 | Sprint | Data da entrega | Acesso |
 | :---: | :--- | :--- |
-Sprint 1 | 30/09 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd1.md)
-Sprint 2 | 28/10 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd2.md)
-Sprint 3 | 25/11 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd3.md)
+Sprint 1 | 30/09 | [Link para acesso](https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/sp1.md)
+Sprint 2 | 28/10 | [Link para acesso]()
+Sprint 3 | 25/11 | [Link para acesso]()
 
 </p>
 
