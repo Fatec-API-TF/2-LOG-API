@@ -1,74 +1,151 @@
-# Aprendizado por Projeto Integrado (API) 
+<h1>ㅤㅤㅤㅤㅤAPI 2º Semestre Logística - Noturno</h1>
+<h1> <p align="center">
+      <img src="./assets/logomelhor.png" width="220" align="center">
+      <p align="center">
+      Equipe Trackflow </h1>
+</p>
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
+<p align="center">
+  <a href ="#status"> Status do Projeto</a>  |
+  <a href ="#objetivo"> Objetivo</a>  |
+  <a href ="#competencias"> Competências trabalhadas</a>  |    
+  <a href ="#backlog"> Backlog</a>  |
+  <a href ="#sprints"> Sprints</a>  |    
+  <a href ="#equipe"> Equipe</a>  |
+  <a href ="#tecnologias"> Tecnologias Usadas</a>  
+</p>
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+<h2> 🔋 Status do Projeto:  <a id="status"></a> </h2> </h2>
 
-# Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Equipe](#Equipe)
-* [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Registro das Sprints](#Registro-das-Sprints)
+> Status do projeto: [Primeira Sprint - 🚩](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd3.md)
+>
+> 
+>
+> Documentação: [Documentação do Projeto - 📖](https://github.com/rodriwsz/API-TEST/tree/main/documentacao)
 
+<h2> 🏃‍♂️ Objetivo: <a id="objetivo"></a> </h2>
 
-# Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+O objetivo deste projeto é desenvolver uma plataforma no Power BI para analisar a sinistralidade de veículos pesados no Brasil. Integrando dados da PRF e do DataSUS, o painel monitora mortalidade, severidade e contexto demográfico/frota, além de mapear a distância entre os acidentes e os pontos de parada e descanso.
 
-# Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Rodrigo Menezes         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
-| Scrum Master  | Aluno 2 |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
-| Team Member   | Aluno 3              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
-|  Team Member  | Aluno 4                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
-|  Team Member  | Aluno 5                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
-|  Team Member  | Aluno 6       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
+<h2> ✍️ Competências Trabalhadas: <a id="competencias"></a> </h2>
+- Documentação de projeto ágil (backlog de produto, de sprint, briefing, etc.) </br>
+- Processo de desenvolvimento ágil </br>  
+- Caracterização do produto logístico </br> 
+- Lógica de programação básica </br>
+- Lógica matemática </br>
+- Persistência de dados em BD relacional 
 
+---
 
-# Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+<h2> 🛠️ Backlog: <a id="backlog"></a> </h2></h2>
 
-
-## Tecnologias Utilizadas
-
-* Jira Software
-* Power BI
-* Microsoft Excel
-* Slack
-* Python (Colab)
-* Mysql
-
-
-
-# Product Backlog
-
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| Prioridade | Nº | User Story | Sprint |
+| :---: | :--- | :--- | :--- |
+| Alta 🔴 |  | Como equipe de projeto, quero criar o repositório no GitHub com a estrutura de pastas do projeto, para termos controle de versão dos artefatos desde o início. | Sprint 1 |
+| Alta 🔴 |  | Como equipe de projeto, quero documentar o backlog do produto e do sprint, para termos o planejamento ágil formalizado conforme exigido pelo curso. | Sprint 1 |
+| Alta 🔴 |  | Como analista de dados, quero mapear e acessar as bases públicas necessárias (DATASUS – mortalidade, PRF – sinistros, frota de veículos, população — IBGE), para ter as fontes de dados do projeto identificadas. | Sprint 1 |
+| Alta 🔴 |  | Como analista de dados, quero normalizar e limpar as bases de dados no Google Colab, para garantir dados consistentes e confiáveis para a análise. | Sprint 1 |
+| Média 🟡 |  | Como analista de dados, quero realizar uma análise exploratória inicial dos dados, para identificar padrões, outliers e priorizar os indicadores a serem desenvolvidos. | Sprint 1 |
+| Média 🟡 |  | Como equipe de projeto, quero consolidar as bases de dados de sinistros (PRF) e frota em um único dataset por estado/ano, para viabilizar o cálculo dos indicadores nos próximos sprints. | Sprint 1 |
+| Média 🟡 |  | Como equipe, quero versionar os scripts Python e notebooks no GitHub a cada incremento, para manter rastreabilidade e permitir trabalho colaborativo. | Sprint 2 |
+| Alta 🔴 |  | Como usuário do dashboard, quero visualizar a taxa de mortalidade por 100 mil habitantes por estado, para comparar a severidade dos sinistros entre os estados. | Sprint 2 |
+| Alta 🔴 |  | Como usuário do dashboard, quero visualizar o indicador de sinistros por 10 mil veículos, para entender a frequência relativa de sinistros com veículos pesados por estado. | Sprint 2 |
+| Média 🟡 |  | Como usuário do dashboard, quero comparar cada estado com a média nacional nos principais indicadores, para identificar rapidamente estados acima ou abaixo da média. | Sprint 2 |
+| Média 🟡 |  | Como analista, quero calcular a correlação entre o crescimento da frota de veículos pesados e o aumento de sinistros fatais, para responder a essa questão de análise proposta pelo cliente. | Sprint 2 |
+| Média 🟡 |  | Como analista, quero identificar quais estados têm maior taxa de letalidade envolvendo veículos pesados, para responder a essa questão de análise proposta pelo cliente. | Sprint 2 |
+| Média 🟡 |  | Como analista, quero mapear os pontos de parada de descanso e calcular a distância entre eles e os locais de sinistros com veículos pesados, para apoiar a análise de infraestrutura viária. | Sprint 2 |
+| Alta 🔴 |  | Como cliente (ONSV), quero participar de uma reunião de apresentação da Entrega 2, para validar o progresso dos indicadores e direcionar ajustes antes do dashboard final. | Sprint 2 |
+| Alta 🔴 |  | Como usuário do dashboard, quero navegar por um mapa do Brasil com dados agregados por estado, para visualizar geograficamente os indicadores de segurança viária. | Sprint 3 |
+| Alta 🔴 |  | Como usuário do dashboard, quero visualizar gráficos de tendência dos indicadores entre 2015 e 2025 por estado, para entender a evolução histórica da segurança viária. | Sprint 3 |
+| Média 🟡 |  | Como usuário do dashboard, quero acessar qualquer informação relevante em poucos cliques, para ter uma navegação intuitiva pela plataforma. | Sprint 3 |
+| Média 🟡 |  | Como usuário do dashboard, quero acessá-lo de forma responsiva em diferentes dispositivos, para consultar os dados também fora do desktop. | Sprint 3 |
+| Alta 🔴 |  | Como usuário do dashboard, quero aplicar filtros por tipo de veículo, região, ano e gravidade do sinistro, para segmentar a análise conforme meu interesse. | Sprint 3 |
+| Alta 🔴 |  | Como usuário do dashboard, quero aplicar um filtro cruzado entre dados de saúde (DATASUS) e transporte (PRF), para relacionar mortalidade e sinistros de forma integrada. | Sprint 3 |
+| Alta 🔴 |  | Como equipe de projeto, quero produzir a documentação técnica completa do projeto (scripts de limpeza e modelagem em Python), para permitir a reprodutibilidade da solução. | Sprint 3 |
+| Alta 🔴 |  | Como cliente (ONSV), quero receber um relatório técnico de análise com boas práticas e desafios por estado, para apoiar a formulação de políticas públicas ou estudos acadêmicos. | Sprint 3 |
+| Alta 🔴 |  | Como equipe de projeto, quero gravar e publicar um vídeo no YouTube apresentando a solução final, para cumprir a forma de entrega definida para a Entrega 3 (26/nov). | Sprint 3 |
+| Média 🟡 |  | Como equipe de projeto, quero apresentar o projeto presencialmente na Feira de Soluções da FATEC, para expor o resultado final do trabalho para banca e visitantes. | Sprint 3 |
 
 
+---
+<h2> ⚙️ Sprints: <a id="sprints"> </a> </h2></h2>
+
+<p align="center">
+
+| Sprint | Data da entrega | Acesso |
+| :---: | :--- | :--- |
+Sprint 1 | 30/09 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd1.md)
+Sprint 2 | 28/10 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd2.md)
+Sprint 3 | 25/11 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/main/MVP/spd3.md)
+
+</p>
+
+---
+
+<h2> 🤝 Equipe: <a id="equipe"> </a> </h2></h2>
+<div align="center">
+  <table>
+    <tr>
+      <th>Membro</th>
+      <th>Função</th>
+      <th>Github</th>
+      <th>Linkedin</th>
+    </tr>
+    <tr>
+      <td>Rodrigo Azavedo</td>
+      <td>Product Owner</td>
+      <td><a href="https://github.com/rodriwsz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/rodrigo-menezes-b4246130b//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td>Kauan Assis</td>
+      <td>Scrum Master</td>
+      <td><a href="https://github.com/KauanDanielX"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/kauan-daniel-b915a3334/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td>Gustavo Funari</td>
+      <td>Team Member</td>
+      <td><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td>Leonardo Balieiro</td>
+      <td>Team Member</td>
+      <td><a href="https://github.com/Leonardacostabalieiro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/leonardodacostabalieiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td>Nikolas Maura</td>
+      <td>Team Member</td>
+      <td><a href="https://github.com/NMAURA"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/nikolasmaura"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td>Victor Oliveira</td>
+      <td>Team Member</td>
+      <td><a href="https://github.com/Victorvmor"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/victor-miguel-848186333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td>Willian Ortiz</td>
+      <td>Team Member</td>
+      <td><a href="https://github.com/willianortiz2201"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/wortiz2201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+  </table>
+</div>
+
+---
 
 
+<h2> 🤖 Tecnologias Usadas:  <a id="tecnologias"></a> </h2> </h2>
 
-  
-# Registro das Sprints
-
-| Sprint            | Previsão   | Status   | Histórico |
-|-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+<h4 align="center">
+ <a href="https://colab.research.google.com"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
+ <a href="https://docs.google.com/document/u/0/"><img src="https://img.shields.io/badge/Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"></a>
+ <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python_3+-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+ <a href="https://app.powerbi.com/home?language=pt-BR"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+ <a href="https://excel.cloud.microsoft/pt-br/"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"></a>
+</h4>
 
