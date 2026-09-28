@@ -95,7 +95,7 @@ Sprint 3 | 25/11 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/
       <td>Rodrigo Azavedo</td>
       <td>Product Owner</td>
       <td><a href="https://github.com/rodriwsz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/rodrigo-menezes-b4246130b//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/rodrigo-menezes-b4246130b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Kauan Assis</td>
