@@ -1,65 +1,49 @@
-# 📌 MVP - [Nome do Projeto]
+<h1>ㅤㅤㅤㅤㅤMVP Sprint 1 - API 1º Semestre Logística</h1>
 
-## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+--- 
 
----
-
-## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+<h2> 🎯 Objetivo do MVP:  </h2>
+  <h3> Requisitos Funcionais:</h3>
+    - Setup de ambiente: Configuração de one drive e google colab para processamento de dados. </br> 
+    - Data prep: Tratamento da base de dados, deixando dados necessários para a estruturação inicial do projeto. </br> 
+    - Dashboard: Modelar o ambiente de visualização de dados através da plataforma Power BI. </br> 
+    - Repositório: Estruturação do repositório remoto (GitHub) E versionamento da documentação da Sprint 1. </br> 
 
 ---
 
-## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+<h2> 🔑 User Stories (Backlog do MVP) </h2>
+
+| ID | User Story | Prioridade | Estimativa (Story Points) |
+| :--- | :--- | :--- | :--- |
+| US1 | Como equipe de projeto, quero criar o repositório no GitHub com a estrutura de pastas do projeto, para termos controle de versão dos artefatos desde o início. | Alta 🔴 | 2 pontos |
+| US2 | Como equipe de projeto, quero documentar o backlog do produto e do sprint, para termos o planejamento ágil formalizado conforme exigido pelo curso. | Alta 🔴 | 3 pontos |
+| US3 | Como analista de dados, quero mapear e acessar as bases públicas necessárias (DATASUS – mortalidade, PRF – sinistros, frota de veículos, população — IBGE), para ter as fontes de dados do projeto identificadas. | Alta 🔴 | 3 pontos |
+| US4 | Como analista de dados, quero normalizar e limpar as bases de dados no Google Colab, para garantir dados consistentes e confiáveis para a análise. | Alta 🔴 | 5 pontos |
+| US5 | Como analista de dados, quero realizar uma análise exploratória inicial dos dados, para identificar padrões, outliers e priorizar os indicadores a serem desenvolvidos. | Média 🟡 | 3 pontos |
+| US6 | Como equipe de projeto, quero consolidar as bases de dados de sinistros (PRF) e frota em um único dataset por estado/ano, para viabilizar o cálculo dos indicadores nos próximos sprints. | Média 🟡 | 5 pontos |
+
 
 ---
 
-## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+<h2> 🗃️ Evidências: </h2>
+
+<img width="1257" height="748" alt="image" src="" />
+
+
+
+<h2 align="center">
+  <a href="">Link para o arquivo - 🗃️</a>
+</h2>
+
+<h2 align="center">
+  <a href="">Link para o dashboard - 🗃️</a>
+</h2>
 
 ---
 
-## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+<h2> 💡 Funcionalidades desenvolvidas: </h2>
 
----
 
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
----
+<h2> 🚩 Pontos de melhoria: </h2>
 
-## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
----
-
-## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
----
-
-## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
