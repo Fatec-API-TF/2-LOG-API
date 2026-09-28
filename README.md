@@ -101,7 +101,7 @@ Sprint 3 | 25/11 | [Link para acesso](https://github.com/rodriwsz/API-TEST/blob/
       <td>Kauan Assis</td>
       <td>Scrum Master</td>
       <td><a href="https://github.com/KauanDanielX"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/kauan-daniel-b915a3334/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/kauan-assis-b915a3334/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Gustavo Funari</td>
