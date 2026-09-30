@@ -41,9 +41,9 @@ O objetivo deste projeto é desenvolver uma plataforma no Power BI para analisar
 
 | Prioridade | Nº | User Story | Sprint |
 | :---: | :--- | :--- | :--- |
-| Alta 🔴 |  | Como equipe de projeto, quero criar o repositório no GitHub com a estrutura de pastas do projeto, para termos controle de versão dos artefatos desde o início. | Sprint 1 |
-| Alta 🔴 |  | Como equipe de projeto, quero documentar o backlog do produto e do sprint, para termos o planejamento ágil formalizado conforme exigido pelo curso. | Sprint 1 |
-| Alta 🔴 |  | Como analista de dados, quero mapear e acessar as bases públicas necessárias (DATASUS – mortalidade, PRF – sinistros, frota de veículos, população — IBGE), para ter as fontes de dados do projeto identificadas. | Sprint 1 |
+| Alta 🔴 |  | Como cliente do projeto, quero o repositório no GitHub com a estrutura de pastas do projeto, para termos o entendimento de versão dos artefatos desde o início. | Sprint 1 |
+| Alta 🔴 |  | Como cliente final do projeto, quero documentado o backlog do produto e de cada sprint, para entendermos o planejamento ágil formalizado conforme exigido. | Sprint 1 |
+| Alta 🔴 |  | Como analista de dados, quero mapear e acessar a base pública da PRF (sinistros, frota de veículos), para ter as fontes de dados do projeto identificadas. | Sprint 1 |
 | Alta 🔴 |  | Como analista de dados, quero normalizar e limpar as bases de dados no Google Colab, para garantir dados consistentes e confiáveis para a análise. | Sprint 1 |
 | Média 🟡 |  | Como analista de dados, quero realizar uma análise exploratória inicial dos dados, para identificar padrões, outliers e priorizar os indicadores a serem desenvolvidos. | Sprint 1 |
 | Média 🟡 |  | Como equipe de projeto, quero consolidar as bases de dados de sinistros (PRF) e frota em um único dataset por estado/ano, para viabilizar o cálculo dos indicadores nos próximos sprints. | Sprint 1 |
@@ -62,9 +62,8 @@ O objetivo deste projeto é desenvolver uma plataforma no Power BI para analisar
 | Alta 🔴 |  | Como usuário do dashboard, quero aplicar filtros por tipo de veículo, região, ano e gravidade do sinistro, para segmentar a análise conforme meu interesse. | Sprint 3 |
 | Alta 🔴 |  | Como usuário do dashboard, quero aplicar um filtro cruzado entre dados de saúde (DATASUS) e transporte (PRF), para relacionar mortalidade e sinistros de forma integrada. | Sprint 3 |
 | Alta 🔴 |  | Como equipe de projeto, quero produzir a documentação técnica completa do projeto (scripts de limpeza e modelagem em Python), para permitir a reprodutibilidade da solução. | Sprint 3 |
-| Alta 🔴 |  | Como cliente (ONSV), quero receber um relatório técnico de análise com boas práticas e desafios por estado, para apoiar a formulação de políticas públicas ou estudos acadêmicos. | Sprint 3 |
-| Alta 🔴 |  | Como equipe de projeto, quero gravar e publicar um vídeo no YouTube apresentando a solução final, para cumprir a forma de entrega definida para a Entrega 3 (26/nov). | Sprint 3 |
-| Média 🟡 |  | Como equipe de projeto, quero apresentar o projeto presencialmente na Feira de Soluções da FATEC, para expor o resultado final do trabalho para banca e visitantes. | Sprint 3 |
+| Alta 🔴 |  | Como cliente final, quero receber um relatório técnico de análise com boas práticas e desafios por estado, para apoiar a formulação de políticas públicas ou estudos acadêmicos. | Sprint 3 |
+| Alta 🔴 |  | Como cliente final, quero um vídeo no YouTube apresentando a solução final, para cumprir a forma de entrega definida para a Entrega 3 (26/nov). | Sprint 3 |
 
 
 ---
