@@ -20,7 +20,7 @@
 | US3 | Como analista de dados, quero mapear e acessar a base pública da PRF (sinistros, frota de veículos), para ter as fontes de dados do projeto identificadas. | Alta 🔴 | 3 pontos |
 | US4 | Como analista de dados, quero normalizar e limpar as bases de dados no Google Colab, para garantir dados consistentes e confiáveis para a análise. | Alta 🔴 | 5 pontos |
 | US5 | Como analista de dados, quero realizar uma análise exploratória inicial dos dados, para identificar padrões, outliers e priorizar os indicadores a serem desenvolvidos. | Média 🟡 | 3 pontos |
-| US6 | Como equipe de projeto, quero consolidar as bases de dados de sinistros (PRF) e frota em um único dataset por estado/ano, para viabilizar o cálculo dos indicadores nos próximos sprints. | Média 🟡 | 5 pontos |
+| US6 | Como analista de dados, quero as bases de dados de sinistros (prf) em um único dataset por estado/ano, para viabilizar o cálculo dos indicadores na entrega final. | Média 🟡 | 5 pontos |
 
 
 ---
