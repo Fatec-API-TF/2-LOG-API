@@ -39,7 +39,7 @@
 </h2>
 
 <h2 align="center">
-  <a href="https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/API1.ipynb">Link para o código no dashboard - 🗃️</a>
+  <a href="https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/API1.ipynb">Link para o código no GitHub - 🗃️</a>
 </h2>
 
 ---
