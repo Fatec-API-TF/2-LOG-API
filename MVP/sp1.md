@@ -46,6 +46,8 @@
   <a href="https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/API1.ipynb">Link para base dados limpa (.csv) - 🗃️</a>
 </h2>
 
+- [📄 Acessar Relatório Técnico em Markdown](relatorio_final_sprint1.md)
+- [📥 Baixar Relatório Técnico em DOCX](relatorio_final_sprint1.docx)
 ---
 
 <h2> 💡 Funcionalidades desenvolvidas: </h2>
