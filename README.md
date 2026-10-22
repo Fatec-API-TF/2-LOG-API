@@ -41,26 +41,26 @@ O objetivo deste projeto é desenvolver uma plataforma no Power BI para analisar
 
 | Prioridade | Nº | User Story | Sprint |
 | :---: | :--- | :--- | :--- |
-| Alta 🔴 |  | Como cliente do projeto, quero o repositório no GitHub com a estrutura de pastas do projeto, para termos o entendimento de versão dos artefatos desde o início. | Sprint 1 |
-| Alta 🔴 |  | Como cliente final do projeto, quero documentado o backlog do produto e de cada sprint, para entendermos o planejamento ágil formalizado conforme exigido. | Sprint 1 |
-| Alta 🔴 |  | Como analista de dados, quero mapear e acessar a base pública da PRF (sinistros, frota de veículos), para ter as fontes de dados do projeto identificadas. | Sprint 1 |
+| Alta 🔴 |  | Como equipe do projeto, quero o repositório no GitHub com a estrutura de pastas do projeto, para termos o entendimento de versão dos artefatos desde o início. | Sprint 1 |
+| Alta 🔴 |  | Como pesquisador do Observatório Nacional de Segurança Viáriarojeto, quero documentado o backlog do produto e de cada sprint, para entendermos o planejamento ágil formalizado conforme exigido. | Sprint 1 |
+| Alta 🔴 |  | Como consultor de dados do Observatório Nacional de Segurança Viária, quero mapear e acessar a base pública da PRF (sinistros, frota de veículos), para ter as fontes de dados do projeto identificadas. | Sprint 1 |
 | Alta 🔴 |  | Como analista de dados, quero normalizar e limpar as bases de dados no Google Colab, para garantir dados consistentes e confiáveis para a análise. | Sprint 1 |
 | Média 🟡 |  | Como analista de dados, quero realizar uma análise exploratória inicial dos dados, para identificar padrões, outliers e priorizar os indicadores a serem desenvolvidos. | Sprint 1 |
 | Média 🟡 |  | Como equipe de projeto, quero consolidar as bases de dados de sinistros (PRF) e frota em um único dataset por estado/ano, para viabilizar o cálculo dos indicadores nos próximos sprints. | Sprint 1 |
 | Média 🟡 |  | Como equipe, quero versionar os scripts Python e notebooks no GitHub a cada incremento, para manter rastreabilidade e permitir trabalho colaborativo. | Sprint 2 |
-| Alta 🔴 |  | Como usuário do dashboard, quero visualizar a taxa de mortalidade por 100 mil habitantes por estado, para comparar a severidade dos sinistros entre os estados. | Sprint 2 |
-| Alta 🔴 |  | Como usuário do dashboard, quero visualizar o indicador de sinistros por 10 mil veículos, para entender a frequência relativa de sinistros com veículos pesados por estado. | Sprint 2 |
-| Média 🟡 |  | Como usuário do dashboard, quero comparar cada estado com a média nacional nos principais indicadores, para identificar rapidamente estados acima ou abaixo da média. | Sprint 2 |
-| Média 🟡 |  | Como analista, quero calcular a correlação entre o crescimento da frota de veículos pesados e o aumento de sinistros fatais, para responder a essa questão de análise proposta pelo cliente. | Sprint 2 |
+| Alta 🔴 |  | Como analista de dados, quero visualizar a taxa de mortalidade por 100 mil habitantes por estado, para comparar a severidade dos sinistros entre os estados no dashboard. | Sprint 2 |
+| Alta 🔴 |  | Como analista de dados, quero visualizar o indicador de sinistros por 10 mil veículos, para entender a frequência relativa de sinistros com veículos pesados por estado. | Sprint 2 |
+| Média 🟡 |  | Como analista de dados, quero comparar cada estado com a média nacional nos principais indicadores, para identificar rapidamente estados acima ou abaixo da média. | Sprint 2 |
+| Média 🟡 |  | Como analista de dados, quero calcular a correlação entre o crescimento da frota de veículos pesados e o aumento de sinistros fatais, para responder a essa questão de análise proposta pelo cliente. | Sprint 2 |
 | Média 🟡 |  | Como analista, quero identificar quais estados têm maior taxa de letalidade envolvendo veículos pesados, para responder a essa questão de análise proposta pelo cliente. | Sprint 2 |
 | Média 🟡 |  | Como analista, quero mapear os pontos de parada de descanso e calcular a distância entre eles e os locais de sinistros com veículos pesados, para apoiar a análise de infraestrutura viária. | Sprint 2 |
 | Alta 🔴 |  | Como cliente (ONSV), quero participar de uma reunião de apresentação da Entrega 2, para validar o progresso dos indicadores e direcionar ajustes antes do dashboard final. | Sprint 2 |
-| Alta 🔴 |  | Como usuário do dashboard, quero navegar por um mapa do Brasil com dados agregados por estado, para visualizar geograficamente os indicadores de segurança viária. | Sprint 3 |
-| Alta 🔴 |  | Como usuário do dashboard, quero visualizar gráficos de tendência dos indicadores entre 2015 e 2025 por estado, para entender a evolução histórica da segurança viária. | Sprint 3 |
-| Média 🟡 |  | Como usuário do dashboard, quero acessar qualquer informação relevante em poucos cliques, para ter uma navegação intuitiva pela plataforma. | Sprint 3 |
-| Média 🟡 |  | Como usuário do dashboard, quero acessá-lo de forma responsiva em diferentes dispositivos, para consultar os dados também fora do desktop. | Sprint 3 |
-| Alta 🔴 |  | Como usuário do dashboard, quero aplicar filtros por tipo de veículo, região, ano e gravidade do sinistro, para segmentar a análise conforme meu interesse. | Sprint 3 |
-| Alta 🔴 |  | Como usuário do dashboard, quero aplicar um filtro cruzado entre dados de saúde (DATASUS) e transporte (PRF), para relacionar mortalidade e sinistros de forma integrada. | Sprint 3 |
+| Alta 🔴 |  | Como pesquisador do (ONSV), quero navegar por um mapa do Brasil com dados agregados por estado, para visualizar geograficamente os indicadores de segurança viária. | Sprint 3 |
+| Alta 🔴 |  | Como analista de bi, quero visualizar gráficos de tendência dos indicadores entre 2015 e 2025 por estado, para entender a evolução histórica da segurança viária. | Sprint 3 |
+| Média 🟡 |  | Como consultor, quero acessar qualquer informação relevante em poucos cliques, para ter uma navegação intuitiva pela plataforma. | Sprint 3 |
+| Média 🟡 |  | Como consultor , quero acessá-lo de forma responsiva em diferentes dispositivos, para consultar os dados também fora do desktop. | Sprint 3 |
+| Alta 🔴 |  | Como analista de dados, quero aplicar filtros por tipo de veículo, região, ano e gravidade do sinistro, para segmentar a análise conforme meu interesse. | Sprint 3 |
+| Alta 🔴 |  | Como pesquisador, quero aplicar um filtro cruzado entre dados de saúde (DATASUS) e transporte (PRF), para relacionar mortalidade e sinistros de forma integrada. | Sprint 3 |
 | Alta 🔴 |  | Como equipe de projeto, quero produzir a documentação técnica completa do projeto (scripts de limpeza e modelagem em Python), para permitir a reprodutibilidade da solução. | Sprint 3 |
 | Alta 🔴 |  | Como cliente final, quero receber um relatório técnico de análise com boas práticas e desafios por estado, para apoiar a formulação de políticas públicas ou estudos acadêmicos. | Sprint 3 |
 | Alta 🔴 |  | Como cliente final, quero um vídeo no YouTube apresentando a solução final, para cumprir a forma de entrega definida para a Entrega 3 (26/nov). | Sprint 3 |
