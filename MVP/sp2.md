@@ -4,72 +4,69 @@
 
 <h2> 🎯 Objetivo do MVP:  </h2>
   <h3> Requisitos Funcionais:</h3>
-    - Base de dados integrada, limpa e funcional. </br> 
-    - Construção entre a base de dados NCM e SH4. </br> 
-    - Dashboard: Melhoria do design e identidade de layout do projeto. </br> 
-    - Repositório: Atualização do repositório remoto (GitHub) E versionamento da documentação da Sprint 2. </br> 
+    - . </br> 
+    - . </br> 
+    - . </br> 
+    - Repositório: Estruturação do repositório remoto (GitHub) E versionamento da documentação da Sprint 1. </br> 
 
 ---
 
-<h2> 🏹 Tasks: </h2>
-  <h3> 1ª Fase: A Base (Leonardo/Nikolas)</h3>
-    • Expansão da Base de Dados (Python): Mudar o código para buscar dados de toda a Região Metropolitana (RMVP) e do Estado de SP, não apenas SJC. Sem isso, não existe o "Comparador".
-    • Cruzamento NCM x SH4 (O "Tradutor"): Unir as tabelas de códigos com os nomes reais dos produtos e categorias (Manufaturados vs. Commodities). Isso é o que vai permitir criar filtros que as pessoas entendam.
-  <h3> 2ª Fase: A Estrutura (Rodrigo/Victor)</h3>
-    • Criação do Menu Lateral e Novas Páginas: Criar o sistema de botões para navegar entre "Resumo", "Comparativo de Cidades" e "Produtos".
-    • Configuração dos Filtros Globais: Colocar o filtro de cidade e o filtro de período (meses/anos) que funcione em todas as telas ao mesmo tempo.
-  <h3> 3ª Fase: A Inteligência (Kauan/Nikolas)</h3>
-    • Módulo de Benchmarking (O Comparador): Criar o mapa interativo de SP e a tabela que coloca SJC ao lado de outras cidades para ver quem vende mais.
-    • Cálculo de Valor Agregado: Criar a conta de "Preço por Tonelada" no Power BI para identificar quais produtos são mais valiosos.
-    • Visão de Modais e Parceiros: Adicionar os gráficos que mostram por onde a carga sai (avião, navio, caminhão) e para quais países ela vai.
-  <h3> 4ª Fase: O Acabamento (Willian)</h3>
-    • Revisão de Design e Textos: Checar se as fontes estão legíveis e se os botões funcionam bem.
-    • Teste de Responsividade: Garantir que o dashboard abra e funcione bem em telas de tamanhos diferentes, como celulares ou tablets.
-
-<h2> 💻 5W2H: </h2>
-
-<img width="1536" height="926" alt="image" src="https://github.com/user-attachments/assets/bb9b4be6-9e6e-449a-a879-8ade3ec7be6d" />
-
-
----
-    
 <h2> 🔑 User Stories (Backlog do MVP) </h2>
- 
+
 | ID | User Story | Prioridade | Estimativa (Story Points) |
 | :--- | :--- | :--- | :--- |
-| US1 | Como analista de mercado, quero visualizar os principais países parceiros das cidades selecionadas para compreender o alcance global da logística local. | Alta 🔴 | 5 pontos |
-| US2 | Como analista de dados, quero extrair e limpar as bases brutas do MDIC via Python para garantir a confiabilidade dos dados que alimentarão o sistema. | Média 🟡 | 3 pontos |
-| US3 | Como gestor de estratégia comercial, quero analisar o preço médio por KG para identificar categorias de maior valor agregado. | Média 🟡 | 3 pontos |
-| US4 | Como diretor de desenvolvimento economico, quero que o processamento em Python normalize os dados por setor industrial para sustentar métricas precisas. | Baixa 🟢 | 2 pontos |
-| US5 | Como analista de comércio exterior, quero cruzar o volume exportado com a via de transporte para identificar necessidades de infraestrutura regional. | Alta 🔴 | 5 pontos |
-
+| US1 | Como equipe, quero versionar os scripts Python e notebooks no GitHub a cada incremento, para manter rastreabilidade e permitir trabalho colaborativo. | Média 🟡 | 5 pontos |
+| US2 | Como analista de dados, quero visualizar a taxa de mortalidade por 100 mil habitantes por estado, para comparar a severidade dos sinistros entre os estados no dashboard. | Alta 🔴 | 5 pontos |
+| US3 | Como analista de dados, quero visualizar o indicador de sinistros por 10 mil veículos, para entender a frequência relativa de sinistros com veículos pesados por estado. | Alta 🔴 | 5 pontos |
+| US4 | Como analista de dados, quero comparar cada estado com a média nacional nos principais indicadores, para identificar rapidamente estados acima ou abaixo da média. | Média 🟡 | 3 pontos |
+| US5 | Como analista de dados, quero calcular a correlação entre o crescimento da frota de veículos pesados e o aumento de sinistros fatais, para responder a essa questão de análise proposta pelo cliente. | Média 🟡 | 5 pontos |
+| US6 | Como analista, quero identificar quais estados têm maior taxa de letalidade envolvendo veículos pesados, para responder a essa questão de análise proposta pelo cliente. | Média 🟡 | 3 pontos |
+| US7 | Como analista, quero mapear os pontos de parada de descanso e calcular a distância entre eles e os locais de sinistros com veículos pesados, para apoiar a análise de infraestrutura viária. | Média 🟡 | 5 pontos |
+| US8 | Como cliente (ONSV), quero participar de uma reunião de apresentação da Entrega 2, para validar o progresso dos indicadores e direcionar ajustes antes do dashboard final. | Alta 🔴 | 3 pontos |
 ---
 
 <h2> 🗃️ Evidências: </h2>
 
-<img width="1733" height="824" alt="image" src="https://github.com/user-attachments/assets/6f9adba7-b54f-49f3-8fd2-ab0588b75558" />
+<img width="957" height="774" alt="image" src="https://github.com/user-attachments/assets/2f00d92d-082b-4b9c-b34a-f3d94eb48905" />
+<img width="772" height="745" alt="image" src="https://github.com/user-attachments/assets/740862ba-4078-467a-ab46-b2f58c1eaed6" />
+<img width="607" height="729" alt="image" src="https://github.com/user-attachments/assets/b936ab37-8a4b-4d64-9cd0-4a8478d54100" />
 
 
 
 
 <h2 align="center">
-  <a href="https://drive.google.com/file/d/1nMSy1DpSXaL_urXNzNYKMKVrDCKx1xe7/view?usp=sharing">Link para o arquivo - 🗃️</a>
+  <a href="https://colab.research.google.com/drive/1dzKy6NinVWmZzWzaLFhG1aBEjWJVkV4K?usp=sharing">Link para o arquivo - 🗃️</a>
 </h2>
 
 <h2 align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiNGQxZjY5MjEtNjY2MS00ZGE3LWI1OTItNjI2NWFkNTIwYzZjIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9">Link para o dashboard - 🗃️</a>
+  <a href="https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/API1.ipynb">Link para o código no GitHub - 🗃️</a>
+</h2>
+
+<h2 align="center">
+  <a href="https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/API1.ipynb">Link para base dados limpa (.csv) - 🗃️</a>
 </h2>
 
 ---
 
 <h2> 💡 Funcionalidades desenvolvidas: </h2>
 
-- Mapa para melhor seleção dos países que mais contribuíram com a exportação e importação dos municípios
-- Filtros do tipo: Pais, Munícipio, SH4, Ano, Trimestre e Mês.
-- Indicadores como: FOB/KG, FOB ($) e KG LIQ. 
+= Governança de projeto ágil
+
+US01 — Criação do repositório no GitHub com estrutura de pastas
+US02 — Documentação do backlog do produto e do sprint
+US03 — Vídeo de validação do entendimento do problema com o cliente
+
+= Coleta, limpeza e modelagem inicial dos dados
+
+US04 — Mapeamento e acesso às bases públicas (DATASUS, PRF, frota, IBGE)
+US05 — Normalização e limpeza das bases no Google Colab
+US06 — Análise exploratória inicial dos dados
+US07 — Consolidação das bases de sinistros (PRF) e frota em um dataset único por estado/ano
+
 
 <h2> 🚩 Pontos de melhoria: </h2>
 
-- Adicionar mais munícipios.
-- Mais meios de interagir com o dashboard como: Novos filtros
-- Aumentar a escala dos dados.
+= Qualidade e confiabilidade dos dados
+
+- Formalizar critérios objetivos de "dados limpos" (ex.: % de nulos aceitável, regras de outlier) em vez de limpeza ad-hoc, para não propagar erro para os indicadores da Sprint 2.
+- Criar testes automatizados simples (ex.: checagem de schema, ranges válidos) no pipeline do Colab, já que na Sprint 2 esse pipeline vira a base do back end em Python.
