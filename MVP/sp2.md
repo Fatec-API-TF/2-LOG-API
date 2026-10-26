@@ -27,23 +27,23 @@
 
 <h2> 🗃️ Evidências: </h2>
 
-<img width="957" height="774" alt="image" src="https://github.com/user-attachments/assets/2f00d92d-082b-4b9c-b34a-f3d94eb48905" />
-<img width="772" height="745" alt="image" src="https://github.com/user-attachments/assets/740862ba-4078-467a-ab46-b2f58c1eaed6" />
-<img width="607" height="729" alt="image" src="https://github.com/user-attachments/assets/b936ab37-8a4b-4d64-9cd0-4a8478d54100" />
+<img  />
+<img  />
+<img  />
 
 
 
 
 <h2 align="center">
-  <a href="https://colab.research.google.com/drive/1dzKy6NinVWmZzWzaLFhG1aBEjWJVkV4K?usp=sharing">Link para o arquivo - 🗃️</a>
+  <a href="">Link para o arquivo - 🗃️</a>
 </h2>
 
 <h2 align="center">
-  <a href="https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/API1.ipynb">Link para o código no GitHub - 🗃️</a>
+  <a href="">Link para o código no GitHub - 🗃️</a>
 </h2>
 
 <h2 align="center">
-  <a href="https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/API1.ipynb">Link para base dados limpa (.csv) - 🗃️</a>
+  <a href="">Link para base dados limpa (.csv) - 🗃️</a>
 </h2>
 
 ---
@@ -52,21 +52,21 @@
 
 = Governança de projeto ágil
 
-US01 — Criação do repositório no GitHub com estrutura de pastas
-US02 — Documentação do backlog do produto e do sprint
-US03 — Vídeo de validação do entendimento do problema com o cliente
+US01 —  </br> 
+US02 —  </br> 
+US03 —  </br> 
 
-= Coleta, limpeza e modelagem inicial dos dados
+= 
 
-US04 — Mapeamento e acesso às bases públicas (DATASUS, PRF, frota, IBGE)
-US05 — Normalização e limpeza das bases no Google Colab
-US06 — Análise exploratória inicial dos dados
-US07 — Consolidação das bases de sinistros (PRF) e frota em um dataset único por estado/ano
+US04 — </br> 
+US05 — </br> 
+US06 — </br> 
+US07 — </br> 
 
 
 <h2> 🚩 Pontos de melhoria: </h2>
 
-= Qualidade e confiabilidade dos dados
+= 
 
-- Formalizar critérios objetivos de "dados limpos" (ex.: % de nulos aceitável, regras de outlier) em vez de limpeza ad-hoc, para não propagar erro para os indicadores da Sprint 2.
-- Criar testes automatizados simples (ex.: checagem de schema, ranges válidos) no pipeline do Colab, já que na Sprint 2 esse pipeline vira a base do back end em Python.
+- 
+- 
