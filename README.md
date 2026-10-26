@@ -17,7 +17,7 @@
 
 <h2> 🔋 Status do Projeto:  <a id="status"></a> </h2> </h2>
 
-> Status do projeto: [Primeira Sprint - 🚩](https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/sp1.md)
+> Status do projeto: [Segunda Sprint - 🚩](https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/sp2.md)
 >
 > 
 >
