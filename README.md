@@ -74,7 +74,7 @@ O objetivo deste projeto é desenvolver uma plataforma no Power BI para analisar
 | Sprint | Data da entrega | Acesso |
 | :---: | :--- | :--- |
 Sprint 1 | 30/09 | [Link para acesso](https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/sp1.md)
-Sprint 2 | 28/10 | [Link para acesso]()
+Sprint 2 | 28/10 | [Link para acesso](https://github.com/Fatec-API-TF/2-LOG-API/blob/main/MVP/sp2.md)
 Sprint 3 | 25/11 | [Link para acesso]()
 
 </p>
