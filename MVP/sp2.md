@@ -4,10 +4,11 @@
 
 <h2> 🎯 Objetivo do MVP:  </h2>
   <h3> Requisitos Funcionais:</h3>
-    - . </br> 
-    - . </br> 
-    - . </br> 
-    - Repositório: Estruturação do repositório remoto (GitHub) E versionamento da documentação da Sprint 1. </br> 
+    - Versionamento de código: Atualização dos scripts Python e notebooks no GitHub. </br> 
+    - Indicadores: Cálculo das taxas de mortalidade e de sinistros por estado. </br> 
+    - Análise de dados: Comparação entre estados e correlação entre frota e sinistros fatais. </br> 
+    - Análise geográfica: Mapeamento de pontos de parada e cálculo de distâncias até os locais de sinistros. </br> 
+    - Repositório: Estruturação do repositório remoto (GitHub) E versionamento da documentação da Sprint 2. </br> 
 
 ---
 
@@ -52,21 +53,20 @@
 
 = Governança de projeto ágil
 
-US01 —  </br> 
-US02 —  </br> 
-US03 —  </br> 
+US01 — Versionamento dos códigos no GitHub. </br> 
 
-= 
+= Indicadores e análise de dados
 
-US04 — </br> 
-US05 — </br> 
-US06 — </br> 
-US07 — </br> 
+US02 — Cálculo da taxa de mortalidade por 100 mil habitantes. </br> 
+US03 — Cálculo de sinistros por 10 mil veículos pesados. </br> 
+US05 — Correlação entre frota de veículos pesados e sinistros fatais. </br> 
+US07 — Mapeamento dos pontos de parada e distâncias até os sinistros. </br> 
 
 
 <h2> 🚩 Pontos de melhoria: </h2>
 
-= 
+= Qualidade dos indicadores e aprofundamento das análises
 
-- 
-- 
+- Validar as fórmulas e os denominadores utilizados nos indicadores, garantindo consistência entre os dados de população, frota de veículos e sinistros.
+- Aprimorar a análise de correlação, considerando o período analisado e as possíveis limitações dos dados, sem interpretar correlação como causalidade.
+- Incorporar os resultados validados ao dashboard final, melhorando a comparação entre estados e a interpretação dos indicadores.
